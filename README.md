@@ -23,6 +23,7 @@ El **SER-01** es un nodo de interacción fotónica vestible que integra una lent
 Basado en las pruebas de validación registradas en el nodo de Mexicali (ver /data/efficiency_log.csv), el sistema SER-01 ha demostrado una optimización disruptiva en la cadena de suministro:
 
 Reducción de Tiempos: Una mejora promedio del 18.5% en maniobras de carga y descarga de contenedores y pallets industriales.
+"🚀 Support the mission: If you believe in the future of photonic logistics, consider becoming a sponsor to accelerate the SER-01 manufacturing."
 
 Ahorro Operativo: Una disminución de hasta 12.89 minutos por operación en cargas complejas, lo que se traduce en una mayor rotación de inventario y menores costos de estancia en puerto.
 
