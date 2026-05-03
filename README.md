@@ -26,4 +26,17 @@ Trazabilidad Incorruptible: Cada ahorro de tiempo está vinculado a un Sello de 
 
 "La eficiencia no es solo velocidad, es la sincronización perfecta entre la voluntad del operador y la precisión del Nexo Digital."
 ### 🔱 Inteligencia de Datos y Predicción.
-"🚀 Support the mission: If you believe in the future of photonic logistics, consider becoming a sponsor to accelerate the SER-01 manufacturing."
+---
+
+## 🔱 Support the Mission: SER-01 🦅
+
+If you believe in the future of **photonic logistics** and the impact of the **SER-01 Nexo Digital**, consider becoming a sponsor. Your support accelerates the manufacturing of high-precision hardware and the deployment of pilot nodes in industrial centers.
+
+### 🎯 Why Sponsor?
+* **Hardware Manufacturing:** Funding the 6061-T6 aluminum chassis and Moissanite optical arrays.
+* **Sovereignty:** Scaling an incorruptible digital infrastructure for global logistics.
+* **Efficiency:** Driving the documented **+18.5% efficiency gain** into mass validation.
+
+[**👉 Become a Sponsor to Sistema Energético Regenerativo**](https://github.com/sponsors/alamcortezcardenas)
+
+*"La voluntad materializada a través de la tecnología."* 🏗️⚖️🎯
